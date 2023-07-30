@@ -14,9 +14,9 @@ Web App: To provide a user-friendly experience, we created a local web app where
 <h4>Contributors</h4>
 This ambitious project was a collective effort, demonstrating the strength of collaboration and teamwork:
 
-•	Urnisha Sarkar: GitHub Profile
+•	Urnisha Sarkar: https://github.com/Urnisha2002
 
-•	Shreya Paul: Shreyaa5
+•	Shreya Paul: 
 
 •	Debanjan Bhattacharjee: GitHub Profile
 
