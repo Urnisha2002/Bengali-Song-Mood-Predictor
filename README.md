@@ -14,15 +14,15 @@ Web App: To provide a user-friendly experience, we created a local web app where
 <h4>Contributors</h4>
 This ambitious project was a collective effort, demonstrating the strength of collaboration and teamwork:
 
-•	Urnisha Sarkar: https://github.com/Urnisha2002
+•	Urnisha Sarkar: https://github.com/Urnisha2002/Bengali-Song-Mood-Predictor
 
 •	Shreya Paul: https://github.com/Shreyaa5/Bengali_Song_Mood_Predictor
 
-•	Debanjan Bhattacharjee: GitHub Profile
+•	Debanjan Bhattacharjee: https://github.com/collegecoder25/Bengali-Song-Mood-Detector
 
-•	Abhiraj Bannerjee: GitHub Profile
+•	Abhiraj Bannerjee: https://github.com/Wriki-tmsl/Bengali_Song_Mood_predictor
 
-•	Aishee Dutta: https://github.com/Aishee23
+•	Aishee Dutta: https://github.com/Aishee23/Bengali_Song_Mood_Predictor
 
 Unleashing the Power of Emotion Recognition
 The ability to predict emotions in Bengali songs holds tremendous potential across various domains, from enhancing music streaming platforms' recommendations to creating personalized playlists that resonate with individual feelings. Our project opens doors to novel applications in the realm of artificial intelligence and music appreciation.
