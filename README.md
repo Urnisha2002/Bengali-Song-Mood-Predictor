@@ -16,7 +16,7 @@ This ambitious project was a collective effort, demonstrating the strength of co
 
 •	Urnisha Sarkar: https://github.com/Urnisha2002
 
-•	Shreya Paul: 
+•	Shreya Paul: https://github.com/Shreyaa5/Bengali_Song_Mood_Predictor
 
 •	Debanjan Bhattacharjee: GitHub Profile
 
