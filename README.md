@@ -30,6 +30,6 @@ The ability to predict emotions in Bengali songs holds tremendous potential acro
 <h5>Join the Journey</h5>
 You can be part of this exciting venture by exploring our code repository on GitHub. Feel free to contribute, provide feedback, and witness the harmony of technology and emotions intertwining in Bengali Song Mood Predictor.
 
-<h6>GitHub Repository</h7>
+<h6>GitHub Repository</h6>
 
 Note: This project is purely academic and not intended for commercial use.
