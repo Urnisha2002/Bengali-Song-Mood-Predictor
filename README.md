@@ -15,10 +15,15 @@ Web App: To provide a user-friendly experience, we created a local web app where
 This ambitious project was a collective effort, demonstrating the strength of collaboration and teamwork:
 
 •	Urnisha Sarkar: GitHub Profile
+
 •	Shreya Paul: GitHub Profile
+
 •	Debanjan Bhattacharjee: GitHub Profile
+
 •	Abhiraj Bannerjee: GitHub Profile
+
 •	Aishee Dutta: GitHub Profile
+
 Unleashing the Power of Emotion Recognition
 The ability to predict emotions in Bengali songs holds tremendous potential across various domains, from enhancing music streaming platforms' recommendations to creating personalized playlists that resonate with individual feelings. Our project opens doors to novel applications in the realm of artificial intelligence and music appreciation.
 
