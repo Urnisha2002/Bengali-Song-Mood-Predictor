@@ -16,7 +16,7 @@ This ambitious project was a collective effort, demonstrating the strength of co
 
 •	Urnisha Sarkar: GitHub Profile
 
-•	Shreya Paul: GitHub Profile
+•	Shreya Paul: Shreyaa5
 
 •	Debanjan Bhattacharjee: GitHub Profile
 
