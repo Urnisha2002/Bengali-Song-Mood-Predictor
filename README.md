@@ -22,7 +22,7 @@ This ambitious project was a collective effort, demonstrating the strength of co
 
 •	Abhiraj Bannerjee: GitHub Profile
 
-•	Aishee Dutta: GitHub Profile
+•	Aishee Dutta: https://github.com/Aishee23
 
 Unleashing the Power of Emotion Recognition
 The ability to predict emotions in Bengali songs holds tremendous potential across various domains, from enhancing music streaming platforms' recommendations to creating personalized playlists that resonate with individual feelings. Our project opens doors to novel applications in the realm of artificial intelligence and music appreciation.
